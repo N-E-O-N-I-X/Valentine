@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N-E-O-N-I-X/Valentine/valentine.gif" alt="Валентинка превью">
+  <img alt="coding bird" width="270" src="https://github.com/N-E-O-N-I-X/Valentine/blob/main/valentine.gif">
 </p>
 
 ___
