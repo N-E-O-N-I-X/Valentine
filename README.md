@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="coding bird" src="https://github.com/N-E-O-N-I-X/Valentine/blob/main/valentine.gif">
-</p>
+<img alt="coding bird" src="https://github.com/N-E-O-N-I-X/Valentine/blob/main/preview.gif">
 
 ___
 
